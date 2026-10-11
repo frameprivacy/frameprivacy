@@ -13,7 +13,7 @@
 Frame is a personal privacy investigator, made in Canada.
 
 - **Find.** Frame scans breaches, data brokers, code hosts and the open web for your emails, phone numbers, usernames and addresses.
-- **Fix.** Each exposure gets a severity score and clear steps to fix it. Frame files broker removal requests for you.
+- **Fix.** Each exposure gets a severity score and clear steps to fix it. Frame sends the data-broker removal requests you approve.
 - **Watch.** After the cleanup, Frame keeps monitoring and alerts you when your data turns up again.
 - **Ask.** A built-in agent explains what it found and what to do about it, in plain language.
 
