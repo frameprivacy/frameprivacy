@@ -5,7 +5,7 @@
 <h3 align="center">Find where your personal data is exposed, then take it back.</h3>
 
 <p align="center">
-  <a href="https://getframe.sh"><strong>getframe.sh</strong></a>
+  <a href="https://frameprivacy.com"><strong>frameprivacy.com</strong></a>
 </p>
 
 ---
@@ -17,6 +17,6 @@ Frame is a personal privacy investigator, made in Canada.
 - **Watch.** After the cleanup, Frame keeps monitoring and alerts you when your data turns up again.
 - **Ask.** A built-in agent explains what it found and what to do about it, in plain language.
 
-**Private beta coming soon.** Get on the list at [getframe.sh](https://getframe.sh).
+**Private beta coming soon.** Get on the list at [frameprivacy.com](https://frameprivacy.com).
 
-<sub>Security reports: security@getframe.sh</sub>
+<sub>Security reports: security@frameprivacy.com</sub>
